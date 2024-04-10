@@ -4,8 +4,8 @@
 # Study
 
 ## Spring
-* [X] [2024_SpringBoot](https://github.com/gimeast/2024_springboot)
 * [X] [2024 jpa](https://github.com/gimeast/2024_jpa)
+* [X] [2024_SpringBoot](https://github.com/gimeast/2024_springboot)
 * [ ] [SpringSecurity](https://github.com/gimeast/springsecurity_in_action)
 * [X] [2023_SpringFramework](https://github.com/gimeast/2023_springFW)
 * [X] [2023_SpringBoot](https://github.com/gimeast/2023_springboot)
