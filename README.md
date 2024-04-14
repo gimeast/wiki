@@ -4,6 +4,7 @@
 # Study
 
 ## Spring
+* [ ] [2024 db](https://github.com/gimeast/2024_db)
 * [X] [2024 jpa](https://github.com/gimeast/2024_jpa)
 * [X] [2024_SpringBoot](https://github.com/gimeast/2024_springboot)
 * [ ] [SpringSecurity](https://github.com/gimeast/springsecurity_in_action)
@@ -11,6 +12,7 @@
 * [X] [2023_SpringBoot](https://github.com/gimeast/2023_springboot)
 
 ## 강의
+* [ ] [스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
 * [X] [실전! Querydsl](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)
 * [X] [실전! 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84)
 * [X] [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard)
