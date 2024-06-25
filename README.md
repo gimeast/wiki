@@ -4,6 +4,7 @@
 # Study
 
 ## Spring
+* [ ] [2024_security](https://github.com/gimeast/2024_security)
 * [X] [2024 db](https://github.com/gimeast/2024_db)
 * [X] [2024 jpa](https://github.com/gimeast/2024_jpa)
 * [X] [2024_SpringBoot](https://github.com/gimeast/2024_springboot)
