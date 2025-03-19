@@ -4,6 +4,9 @@
 # Study
 
 ## study_projects
+* [ ] [projects](https://github.com/gimeast/projects)
+* [ ] [data_structure](https://github.com/gimeast/data_structure)
+* [ ] [2025_vue_study](https://github.com/gimeast/2025_vue_study)
 * [ ] [2025_clone_coding](https://github.com/gimeast/2025_clone_coding)
 * [X] [2024 db](https://github.com/gimeast/2024_db)
 * [X] [2024 jpa](https://github.com/gimeast/2024_jpa)
