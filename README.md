@@ -1,20 +1,4 @@
-# WIKI
-[![Blog](https://img.shields.io/badge/Blog-https://gimeast.tistory.com/-green.svg)](https://gimeast.tistory.com/)
-
-# Study
-
-## study_projects
-* [ ] [projects](https://github.com/gimeast/projects)
-* [ ] [data_structure](https://github.com/gimeast/data_structure)
-* [ ] [2025_vue_study](https://github.com/gimeast/2025_vue_study)
-* [ ] [2025_clone_coding](https://github.com/gimeast/2025_clone_coding)
-* [X] [2024 db](https://github.com/gimeast/2024_db)
-* [X] [2024 jpa](https://github.com/gimeast/2024_jpa)
-* [X] [2024_SpringBoot](https://github.com/gimeast/2024_springboot)
-* [X] [2023_SpringFramework](https://github.com/gimeast/2023_springFW)
-* [X] [2023_SpringBoot](https://github.com/gimeast/2023_springboot)
-
-## 강의
+# 학습한 강의 목록
 * [X] [스프링 DB 2편 - 데이터 접근 활용 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2/dashboard)
 * [X] [스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
 * [X] [실전! Querydsl](https://www.inflearn.com/course/querydsl-%EC%8B%A4%EC%A0%84/dashboard)
